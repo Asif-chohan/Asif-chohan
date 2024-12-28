@@ -47,9 +47,9 @@ Check out my repositories below to see more of my work!
 
 ## 🛠️ How I Work
 
-✅ Tailored solutions based on **your** needs
-✅ Honest feedback and realistic timelines
-✅ Regular updates and clear communication
+✅ Tailored solutions based on **your** needs <br>
+✅ Honest feedback and realistic timelines <br>
+✅ Regular updates and clear communication <br>
 
 ---
 
