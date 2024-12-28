@@ -13,10 +13,10 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** with over **7 years
 
 ## 🌟 What I Do
 
-✔️ Build **clean, scalable, and maintainable** code that grows with your business
-✔️ Deliver **on-time and on-budget** projects
-✔️ Provide **end-to-end support** for web and mobile development
-✔️ Ensure **transparent communication** throughout the project lifecycle
+✔️ Build **clean, scalable, and maintainable** code that grows with your business <br>
+✔️ Deliver **on-time and on-budget** projects <br>
+✔️ Provide **end-to-end support** for web and mobile development <br>
+✔️ Ensure **transparent communication** throughout the project lifecycle <br>
 
 ---
 
